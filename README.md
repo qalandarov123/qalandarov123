@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nodir+Ustoz!;IT+Mentor+%26+Teacher;Mentor+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Qalandarov+Ibrohimjon!;IT+Mentor+%26+Teacher;Student+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** IT Park Mentor & Programming Teacher  
+💻 **Profession:** IT Park student & Programming student  
 🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
 🎓 **Fields I Teach:** Python, Web Development, Cybersecurity  
 📚 **Experience:** Many years in IT with thousands of students trained  
@@ -80,13 +80,13 @@
 ## 🌐 Contact Me
 
 <div align="center">
-  <a href="https://t.me/NodirOdilov">
+  <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/odilov-nodir">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tuproqqalam@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
